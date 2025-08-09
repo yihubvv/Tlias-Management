@@ -1,10 +1,16 @@
-# Tlias-Management
+# Preface
 This is an online project witha given front page. I developed the rear-end part.
 
 This project is inherited from a Chinese developer, so please right click to translate the content into English.
 
 This system manages departments, status of classes and student, keeps in track of employees and their genders.
 
+#How to start:
+
+1. find nginx.exe in nginx-1.22.0-web, double click
+
+3. in intellij, open and run the web-ai-project2
+   
 The managers have the right to delete, edit, add employees and so on.
 <img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/e03db654-6bef-44bf-8ee2-5e0f6e914059" />
 
